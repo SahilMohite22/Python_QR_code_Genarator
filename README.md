@@ -1,2 +1,3 @@
 # Python_QR_code_Genarator
-This is a simple python program to generate QR code using the QR code package. 
+
+The QR code program is a simple yet effective tool for generating QR codes. The program utilizes the qrcode library, which is a popular Python library that enables the creation of QR codes. The user is prompted to enter a URL, which is the information that will be encoded into the QR code. Additionally, the user is asked to enter a description of what the URL pertains to. This information is used to create a meaningful file name for the QR code image. Once the user inputs URL of some specific website, the program generates the QR code and saves it as a JPEG image file. This program is useful for creating QR codes that can be scanned by mobile devices, such as smartphones and tablets, to quickly access websites, documents, and other resources.
